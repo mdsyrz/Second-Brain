@@ -1,1 +1,1 @@
-# Train-of-Thoughts
+# Second Brain
