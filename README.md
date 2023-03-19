@@ -1,7 +1,7 @@
 # Second Brain
 
-![Alt text](
-)
+![Alt text](public/image/secondbrain (home).jpeg)
+
 I chose this project as a platform for myself or anyone to have access to a personal blog/diary where users are able to create customized posts of their daily thoughts and encounters.
 In addition, it could be converted into a note taking platform as well for students where it provides security for them to be the only one to have access to their notes.
 
