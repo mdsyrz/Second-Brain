@@ -1,6 +1,6 @@
 # Second Brain
 
-<p align="left"><img src=https://github.com/mdsyrz/Second-Brain/blob/196b6fe230e8f9dc1bd3f9d50fe6a03df205d620/public/image/secondbrain%20(home).jpeg width="50%" height="50%">
+<p align="left"><img src=https://github.com/mdsyrz/Second-Brain/blob/196b6fe230e8f9dc1bd3f9d50fe6a03df205d620/public/image/secondbrain%20(home).jpeg width="100%" height="100%">
 </p>
 
 I chose this project as a platform for myself or anyone to have access to a personal blog/diary where users are able to create customized posts of their daily thoughts and encounters.
