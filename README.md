@@ -8,6 +8,14 @@
 Second Brain is a blogging platform for everyone to have access to a personal blog where you are able to create customized posts of your daily thoughts and encounters.
 In addition, students can also use it as a note taking platform. It provides security for them to be the only one to have access to their notes or any other personal information they might have and would not to be shared with others.
 
+## Home Page
+<p align="left"><img src=https://github.com/mdsyrz/Second-Brain/blob/fad4fb0ea9b25e4cd2ccb376da4e72e43c592679/public/images/Homepage.png width="100%" height="100%">
+</p>
+
+## Login Page
+<p align="left"><img src=https://github.com/mdsyrz/Second-Brain/blob/fad4fb0ea9b25e4cd2ccb376da4e72e43c592679/public/images/Login.png width="100%" height="100%">
+</p>
+
 ## Challenges
 Biggest challenge for me is when getting the codes to sync with authentication.
 
