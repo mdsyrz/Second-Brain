@@ -1,3 +1,8 @@
-<h1><%= message %></h1>
-<h2><%= error.status %></h2>
-<pre><%= error.stack %></pre>
+<%- include("./partials/header")%>
+    <div class="container mt-3 mb-2">
+        <%- include("./partials/flash")%>
+            <h1 style="color: rgb(1, 1, 1); text-align: center;">404 <br /> Page Not Found</h1>
+
+            <a href="/blogs" class="btn btn-secondary mb-1 d-block" style="margin-left: 0px; margin-top: 32px; ">Return
+                To Home</a>
+    </div>
