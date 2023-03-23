@@ -2,7 +2,7 @@
 
 [Access The Site Here](https://thankful-bee-flip-flops.cyclic.app)
 
-<p align="left"><img src=https://github.com/mdsyrz/Second-Brain/blob/196b6fe230e8f9dc1bd3f9d50fe6a03df205d620/public/image/secondbrain%20(home).jpeg width="100%" height="100%">
+<p align="left"><img src=https://github.com/mdsyrz/Second-Brain/blob/9432992b6b843a2dd4d4d749d089107b7678a079/public/images/Landing%20Page.png width="100%" height="100%">
 </p>
 
 Second Brain is a blogging platform for everyone to have access to a personal blog where you are able to create customized posts of your daily thoughts and encounters.
