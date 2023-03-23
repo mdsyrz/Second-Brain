@@ -1,6 +1,6 @@
 # Second Brain 
 
-[Access The Site Here]([https://link-url-here.org](https://thankful-bee-flip-flops.cyclic.app/))
+[Access The Site Here]([https://thankful-bee-flip-flops.cyclic.app])
 
 <p align="left"><img src=https://github.com/mdsyrz/Second-Brain/blob/196b6fe230e8f9dc1bd3f9d50fe6a03df205d620/public/image/secondbrain%20(home).jpeg width="100%" height="100%">
 </p>
